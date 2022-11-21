@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\TI\SEMANA 4\bin\Debug\net6.0\SEMANA 4.exe
+C:\Users\acer\Desktop\TI\SEMANA 4\bin\Debug\net6.0\SEMANA 4.deps.json
+C:\Users\acer\Desktop\TI\SEMANA 4\bin\Debug\net6.0\SEMANA 4.runtimeconfig.json
+C:\Users\acer\Desktop\TI\SEMANA 4\bin\Debug\net6.0\SEMANA 4.dll
+C:\Users\acer\Desktop\TI\SEMANA 4\bin\Debug\net6.0\SEMANA 4.pdb
+C:\Users\acer\Desktop\TI\SEMANA 4\obj\Debug\net6.0\SEMANA 4.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\TI\SEMANA 4\obj\Debug\net6.0\SEMANA 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\TI\SEMANA 4\obj\Debug\net6.0\SEMANA 4.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\TI\SEMANA 4\obj\Debug\net6.0\SEMANA 4.AssemblyInfo.cs
+C:\Users\acer\Desktop\TI\SEMANA 4\obj\Debug\net6.0\SEMANA 4.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\TI\SEMANA 4\obj\Debug\net6.0\SEMANA 4.dll
+C:\Users\acer\Desktop\TI\SEMANA 4\obj\Debug\net6.0\refint\SEMANA 4.dll
+C:\Users\acer\Desktop\TI\SEMANA 4\obj\Debug\net6.0\SEMANA 4.pdb
+C:\Users\acer\Desktop\TI\SEMANA 4\obj\Debug\net6.0\SEMANA 4.genruntimeconfig.cache
+C:\Users\acer\Desktop\TI\SEMANA 4\obj\Debug\net6.0\ref\SEMANA 4.dll
